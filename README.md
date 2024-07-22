@@ -187,3 +187,5 @@ DATABASE_USER=airbyte_user
 DATABASE_PASSWORD=airbyte_password
 DATABASE_DBNAME=airbyte_db
 ```
+## Breve documentación y capturas de pantalla
+![Airbyte_CDC_ETL.pdf](src/Assets/Airbyte_CDC_ETL.pdf)
