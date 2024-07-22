@@ -78,7 +78,7 @@ wsl --set-default-version 2
 
          - Enable Hyper-V Windows Features 
          - Install required Windows components for WSL 2
-         - Reinicia tu computadora cuando se te indique.
+         - Reinicia cuando se te indique.
 
 ### 4. Configurar Docker Desktop para WSL 2:
 
